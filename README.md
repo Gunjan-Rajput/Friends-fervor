@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Friends
+### Friends-fervor
 
 This is simple beginner friendly project, with the help of which you can learn how to iterate over json data. And there is also a good example of Conditional Rendering.
 
