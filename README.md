@@ -1,3 +1,10 @@
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Friends
+
+This is simple beginner friendly project, with the help of which you can learn how to iterate over json data. And there is also a good example of Conditional Rendering.
+
+In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
