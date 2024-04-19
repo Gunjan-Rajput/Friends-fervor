@@ -4,7 +4,6 @@ import './App.css';
 import AppData from "./AppData"
 import Data from "./Data"
 
-
 class App extends React.Component{
 
   render(){
