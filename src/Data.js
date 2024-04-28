@@ -17,7 +17,6 @@ class Data extends React.Component{
 				}
 		})
 	}
-
 	render(){
 		let choosed
 		if (this.state.count){
