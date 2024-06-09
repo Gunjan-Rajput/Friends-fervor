@@ -35,5 +35,4 @@ const AppData = [
 		passion:"Reasoning"
 	}
 ]
-
 export default AppData
